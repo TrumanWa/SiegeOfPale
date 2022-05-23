@@ -1,0 +1,8 @@
+Movement: Arrow keys or numpad
+View Inventory: i
+Drop Item: d
+Look: /
+View Character Screen: c
+Pick up item: g
+View Log: v
+Descend stairs: SHIFT + PERIOD
